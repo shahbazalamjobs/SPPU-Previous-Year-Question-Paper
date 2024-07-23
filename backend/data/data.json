@@ -1,0 +1,1350 @@
+{
+  "universities": [
+    {
+      "name": "Pune University",
+      "courses": [
+        {
+          "course": "Engineering",
+          "branches": [
+            {
+              "branch": "Computer Engineering",
+              "years": [
+                {
+                  "year": "SE",
+                  "patterns": [
+                    {
+                      "patternYear": "2015",
+                      "subjects": [
+                        {
+                          "subject": "Subject 1",
+                          "papers": [
+                            {
+                              "year": "2023",
+                              "month": "June",
+                              "link": "https://drive.google.com/abc123"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "patternYear": "2019",
+                      "subjects": [
+                        {
+                          "subject": "Subject 2",
+                          "papers": [
+                            {
+                              "year": "2023",
+                              "month": "June",
+                              "link": "https://drive.google.com/def456"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "year": "TE",
+                  "patterns": [
+                    {
+                      "patternYear": "2015",
+                      "subjects": [
+                        {
+                          "subject": "Subject 3",
+                          "papers": [
+                            {
+                              "year": "2023",
+                              "month": "June",
+                              "link": "https://drive.google.com/ghi789"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "patternYear": "2019",
+                      "subjects": [
+                        {
+                          "subject": "Subject 4",
+                          "papers": [
+                            {
+                              "year": "2023",
+                              "month": "June",
+                              "link": "https://drive.google.com/jkl012"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "year": "BE",
+                  "patterns": [
+                    {
+                      "patternYear": "2015",
+                      "subjects": [
+
+                      ]
+                    },
+                    
+                    {
+                      "patternYear": "2019",
+                      "subjects": [
+                        {
+                          "subject": "Design and Analysis of Algorithms",
+                          "papers": [
+                            {
+                              "type": "endsem",
+                              "exams": [
+                                {
+                                  "year": "2022",
+                                  "month": "Nov-Dec",
+                                  "link": "https://drive.google.com/drive/folders/1Iz5Pji2fvD4-pyQnXOvXDrfISOPjkJ3uhttps://drive.google.com/file/d/1KDYh4zBXzQTCedVUpEoDuEYP1qy2Wozb/view?usp=sharing"
+                                },
+                                {
+                                  "year": "2023",
+                                  "month": "May-June",
+                                  "link": "https://drive.google.com/file/d/1K_ZhheT6r9Pg5r7-VaDDQe9h_NvjZPSF/view?usp=sharing"
+                                },
+                                {
+                                  "year": "2023",
+                                  "month": "Nov-Dec",
+                                  "link": "https://drive.google.com/file/d/1kWLQxHilq_qdaEmKaMFX-zRtHRfjUECa/view?usp=sharing"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+
+                        {
+                          "subject": "Machine Learning",
+                          "papers": [
+                            {
+                              "type": "endsem",
+                              "exams": [
+                                {
+                                  "year": "2022",
+                                  "month": "Nov-Dec",
+                                  "link": "https://drive.google.com/file/d/17tQnhejPf9hJwnsRR7bb4NY7ocdNbRTD/view?usp=sharing"
+                                },
+                                {
+                                  "year": "2023",
+                                  "month": "May-June",
+                                  "link": "https://drive.google.com/file/d/1-HSrbZ6ok0XXjVeu9YehwMPBye1i7gzX/view?usp=sharing"
+                                },
+                                {
+                                  "year": "2023",
+                                  "month": "Nov-Dec",
+                                  "link": "https://drive.google.com/file/d/1BVTf2joD3NsY57QAe_NWGYFuKmtsFh2s/view?usp=sharing"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+
+                        {
+                          "subject": "Blockchain Technology",
+                          "papers": [
+                            {
+                              "type": "endsem",
+                              "exams": [
+                                {
+                                  "year": "2022",
+                                  "month": "Nov-Dec",
+                                  "link": "https://drive.google.com/file/d/1SUng-5eTcfQIlBlMttjJRX3h02L2kk9A/view?usp=sharing"
+                                },
+                                {
+                                  "year": "2023",
+                                  "month": "May-June",
+                                  "link": "https://drive.google.com/file/d/1K_ZhheT6r9Pg5r7-VaDDQe9h_NvjZPSF/view?usp=sharing"
+                                },
+                                {
+                                  "year": "2023",
+                                  "month": "Nov-Dec",
+                                  "link": "https://drive.google.com/file/d/1kWLQxHilq_qdaEmKaMFX-zRtHRfjUECa/view?usp=sharing"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "insem",
+                              "exams": [
+                                {
+                                  "year": "2023",
+                                  "month": "Oct",
+                                  "link": "https://drive.google.com/drive/folders/17hW68Lz2zQM3ZXXODeqI1QgrF3DQ__x9"
+                                },
+                                {
+                                  "year": "2023",
+                                  "month": "Sep",
+                                  "link": "https://drive.google.com/drive/folders/17hW68Lz2zQM3ZXXODeqI1QgrF3DQ__x9"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "subject": "Pervasive Computing (Elective - III)",
+                          "papers": [
+                            {
+                              "year": "2023",
+                              "month": "June",
+                              "link": "https://drive.google.com/xyz126"
+                            }
+                          ]
+                        },
+                        {
+                          "subject": "Multimedia Techniques (Elective - III)",
+                          "papers": [
+                            {
+                              "year": "2023",
+                              "month": "June",
+                              "link": "https://drive.google.com/xyz127"
+                            }
+                          ]
+                        },
+
+                        {
+                          "subject": "Cyber Security and Digital Forensics",
+                          "papers": [
+                            {
+                              "type": "endsem",
+                              "exams": [
+                                {
+                                  "year": "2022",
+                                  "month": "Nov-Dec",
+                                  "link": "https://drive.google.com/file/d/1XA7uWYIofMm4qX9DYC6vGR0_1F8WOpXt/view?usp=sharing"
+                                },
+                                {
+                                  "year": "2023",
+                                  "month": "May-June",
+                                  "link": "https://drive.google.com/file/d/11ScmFeSinvAoQYpcAHKFaj2kQSNzh0kr/view?usp=sharing"
+                                },
+                                {
+                                  "year": "2023",
+                                  "month": "Nov-Dec",
+                                  "link": "https://drive.google.com/file/d/1Mi913p1VZ0cN1BHl3qvqm-djnjeXu56K/view?usp=sharing"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "insem",
+                              "exams": [
+                                {
+                                  "year": "2022",
+                                  "month": "Oct",
+                                  "link": "https://drive.google.com/drive/folders/1-Z65dJjp-erdj4ipx0L33rpxEdDqXol9"
+                                },
+                                {
+                                  "year": "2023",
+                                  "month": "Sep",
+                                  "link": "https://drive.google.com/drive/folders/1-Z65dJjp-erdj4ipx0L33rpxEdDqXol9"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        
+                        {
+                          "subject": "Machine Learning and Data Science",
+                          "papers": [
+                            {
+                              "type": "endsem",
+                              "exams": [
+                                {
+                                  "year": "2022",
+                                  "month": "Nov-Dec",
+                                  "link": "https://drive.google.com/file/d/10_egnB8iEgkoCrqFsMyh6QSNA4K1KlIL/view?usp=sharing"
+                                },
+                                {
+                                  "year": "2023",
+                                  "month": "May-June",
+                                  "link": "https://drive.google.com/file/d/1i8jWLER1qJXhyA55KvHQPJvbm0LCGysj/view?usp=sharing"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        
+                        {
+                          "subject": "Object Oriented Modeling and Design (Elective - III)",
+                          "papers": [
+                            {
+                              "year": "2023",
+                              "month": "June",
+                              "link": "https://drive.google.com/xyz129"
+                            }
+                          ]
+                        },
+                        {
+                          "subject": "Digital Signal Processing (Elective - III)",
+                          "papers": [
+                            {
+                              "year": "2023",
+                              "month": "June",
+                              "link": "https://drive.google.com/xyz130"
+                            }
+                          ]
+                        },
+                        {
+                          "subject": "Information Retrieval (Elective - IV)",
+                          "papers": [
+                            {
+                              "year": "2023",
+                              "month": "June",
+                              "link": "https://drive.google.com/xyz131"
+                            }
+                          ]
+                        },
+                        {
+                          "subject": "GPU Programming and Architecture (Elective - IV)",
+                          "papers": [
+                            {
+                              "year": "2023",
+                              "month": "June",
+                              "link": "https://drive.google.com/xyz132"
+                            }
+                          ]
+                        },
+
+                        {
+                          "subject": "Mobile Computing (Elective IV)",
+                          "papers": [
+                            {
+                              "type": "endsem",
+                              "exams": [
+                                {
+                                  "year": "2023",
+                                  "month": "Nov-Dec",
+                                  "link": "https://drive.google.com/file/d/1nRw19olN7UvVYpbs1n1IyJCCy-dC1o1b/view?usp=sharing"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+
+                        {
+                          "subject": "Software Testing and Quality Assurance",
+                          "papers": [
+                            {
+                              "type": "endsem",
+                              "exams": [
+                                {
+                                  "year": "2022",
+                                  "month": "Nov-Dec",
+                                  "link": "https://drive.google.com/file/d/1IBUNew_KjF-Y83QA6jJS1nEpadrMZ7jR/view?usp=sharing"
+                                },
+                                {
+                                  "year": "2023",
+                                  "month": "May-June",
+                                  "link": "https://drive.google.com/file/d/1zBCkT2rOfEwuQUmLhYg92XeoVQRZWCnN/view?usp=sharing"
+                                },
+                                {
+                                  "year": "2023",
+                                  "month": "Nov-Dec",
+                                  "link": "https://drive.google.com/file/d/141EKBaUXb9v-B7m3FeryShe9jRQay1tN/view?usp=sharing"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "subject": "Compilers (Elective - IV)",
+                          "papers": [
+                            {
+                              "year": "2023",
+                              "month": "June",
+                              "link": "https://drive.google.com/xyz135"
+                            }
+                          ]
+                        },
+
+                        {
+                          "subject": "High Performance Computing",
+                          "papers": [
+                            {
+                              "type": "endsem",
+                              "exams": [
+                                {
+                                  "year": "2023",
+                                  "month": "May-June",
+                                  "link": "https://drive.google.com/file/d/1rht9Mwyq5sSGxqzNnzLtsMuBVi6QFwc6/view?usp=sharing"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+
+                        {
+                          "subject": "Deep Learning",
+                          "papers": [
+                            {
+                              "type": "endsem",
+                              "exams": [
+                                {
+                                  "year": "2023",
+                                  "month": "May-June",
+                                  "link": "https://drive.google.com/file/d/1FulBd53m-T74121S9_lIjfBI__XrmW15/view?usp=sharing"
+                                },
+                                {
+                                  "year": "2023",
+                                  "month": "Nov-Dec",
+                                  "link": "https://drive.google.com/drive/folders/1AzIBIcBF8SlORCBqA4bORd_A3uLlmkryhttps://drive.google.com/file/d/1X7Tfaq3JGJjEq9q1NlrLHTOPO-BLZlOj/view?usp=sharing"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+
+                        {
+                          "subject": "Natural Language Processing",
+                          "papers": [
+                            {
+                              "type": "endsem",
+                              "exams": [
+                                {
+                                  "year": "2023",
+                                  "month": "May-June",
+                                  "link": "https://drive.google.com/file/d/1KXRIgBmigo1JP2JNe-BRoUmJFCNC8oHF/view?usp=sharing"
+                                },
+                                {
+                                  "year": "2023",
+                                  "month": "Nov-Dec",
+                                  "link": "https://drive.google.com/file/d/1hZit_2RgFrDx9X-0LzyBNXjjiduXYvkA/view?usp=sharing"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "subject": "Image Processing (Elective - V)",
+                          "papers": [
+                            {
+                              "year": "2023",
+                              "month": "June",
+                              "link": "https://drive.google.com/xyz139"
+                            }
+                          ]
+                        },
+                        {
+                          "subject": "Software Defined Networks (Elective - V)",
+                          "papers": [
+                            {
+                              "year": "2023",
+                              "month": "June",
+                              "link": "https://drive.google.com/xyz140"
+                            }
+                          ]
+                        },
+                        {
+                          "subject": "Advanced Digital Signal Processing (Elective - V)",
+                          "papers": [
+                            {
+                              "year": "2023",
+                              "month": "June",
+                              "link": "https://drive.google.com/xyz141"
+                            }
+                          ]
+                        },
+                        {
+                          "subject": "Pattern Recognition (Elective - VI)",
+                          "papers": [
+                            {
+                              "year": "2023",
+                              "month": "June",
+                              "link": "https://drive.google.com/xyz142"
+                            }
+                          ]
+                        },
+                        {
+                          "subject": "Soft Computing (Elective - VI)",
+                          "papers": [
+                            {
+                              "year": "2023",
+                              "month": "June",
+                              "link": "https://drive.google.com/xyz143"
+                            }
+                          ]
+                        },
+
+                        {
+                          "subject": "Business Intelligence",
+                          "papers": [
+                            {
+                              "type": "insem",
+                              "exams": [
+                                {
+                                  "year": "2023",
+                                  "month": "Feb",
+                                  "link": "https://drive.google.com/drive/folders/1lBQCyJpswK6Lj6RKpTLkO3T3fExoT6VQ"
+                                },
+                                {
+                                  "year": "2024",
+                                  "month": "Mar",
+                                  "link": "https://drive.google.com/drive/folders/1lBQCyJpswK6Lj6RKpTLkO3T3fExoT6VQ"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "endsem",
+                              "exams": [
+                                {
+                                  "year": "2023",
+                                  "month": "May-June",
+                                  "link": "https://drive.google.com/file/d/1odyFXSzHmDDt5AXB2dByQu13rmWdvZve/view?usp=sharing"
+                                },
+                                {
+                                  "year": "2023",
+                                  "month": "Nov-Dec",
+                                  "link": "https://drive.google.com/drive/folders/1lBQCyJpswK6Lj6RKpTLkO3T3fExoT6VQ"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "subject": "Quantum Computing (Elective - VI)",
+                          "papers": [
+                            {
+                              "year": "2023",
+                              "month": "June",
+                              "link": "https://drive.google.com/xyz145"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "year": "ME",
+                  "patterns": [
+                    {
+                      "patternYear": "2015",
+                      "subjects": [
+                        
+                      ]
+                    },
+                    {
+                      "patternYear": "2019",
+                      "subjects": [
+                        
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+
+            {
+              "branch": "Electronics & Telecommunication Engineering",
+              "years": [
+                {
+                  "year": "BE",
+                  "patterns": [
+                    {
+                      "patternYear": "2019",
+                      "subjects": [
+                        {
+                          "semester": "VII",
+                          "subjects": [
+                            {
+                              "subject": "Radiation & Microwave Theory",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz001"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "VLSI Design and Technology",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz002"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Cloud Computing",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz003"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Speech Processing (Elective - III)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz004"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "PLC SCADA & Automation (Elective - III)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz005"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "JavaScript (Elective - III)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz006"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Embedded & RTOS (Elective - III)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz007"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Modernized IoT (Elective - III)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz008"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Data Mining (Elective - IV)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz009"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Electronic Product Development (Elective - IV)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz010"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Deep Learning (Elective - IV)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz011"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Low Power CMOS (Elective - IV)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz012"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Smart Antennas (Elective - IV)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz013"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "semester": "VIII",
+                          "subjects": [
+                            {
+                              "subject": "Fiber Optic Communication",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz014"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Biomedical Signal Processing (Elective - V)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz015"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Industrial Drives & Automation (Elective - V)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz016"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Android Development (Elective - V)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz017"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Embedded System Design (Elective - V)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz018"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Mobile Computing (Elective - V)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz019"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "System on Chip (Elective - VI)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz020"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Nano Electronics (Elective - VI)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz021"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Remote Sensing (Elective - VI)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz022"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Digital Marketing (Elective - VI)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz023"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },                        
+            {
+              "branch": "Electrical Engineering",
+              "years": [
+                {
+                  "year": "BE",
+                  "patterns": [
+                    {
+                      "patternYear": "2019",
+                      "subjects": [
+                        {
+                          "semester": "VII",
+                          "subjects": [
+                            {
+                              "subject": "Power System Operation & Control",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz001"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Advanced Control System",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz002"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "PLC and SCADA (Elective - III)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz003"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Power Quality Management (Elective - III)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz004"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "High Voltage Engineering (Elective - III)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz005"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Robotics and Automation (Elective - III)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz006"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Alternate Energy System (Elective - IV)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz007"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Electrical & Hybrid Vehicle (Elective - IV)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz008"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Special-purpose Machines (Elective - IV)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz009"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "HVDC & FACTS (Elective - IV)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz010"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "semester": "VIII",
+                          "subjects": [
+                            {
+                              "subject": "Switchgear and Protection",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz011"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Advanced Electrical Drives & Control",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz012"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Digital Control System (Elective - V)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz013"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Restructuring and Deregulation (Elective - V)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz014"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Smart Grid (Elective - V)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz015"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Sensor Technology (Open Elective - V)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz016"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "EHV AC Transmission (Elective - VI)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz017"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Illumination Engineering (Elective - VI)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz018"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Electromagnetic Fields (Elective - VI)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz019"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "AI and ML (Open Elective - VI)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz020"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "branch": "Electronics Engineering",
+              "years": [
+                {
+                  "year": "BE",
+                  "patterns": [
+                    {
+                      "patternYear": "2019",
+                      "subjects": [
+                        {
+                          "semester": "VII",
+                          "subjects": [
+                            {
+                              "subject": "VLSI Design",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz001"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Advanced Power Electronics",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz002"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Electronic System Design",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz003"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Speech Processing (Elective - III)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz004"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "JavaScript (Elective - III)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz005"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Internet of Things (Elective - III)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz006"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Software Defined Radio (Elective - III)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz007"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Testing and Verification for SOC design (Elective - III)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz008"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Low Power CMOS (Elective - IV)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz009"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Smart Antennas (Elective - IV)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz010"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Mobile Communication (Elective - IV)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz011"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Embedded Systems (Elective - IV)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz012"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Optimization Techniques (Elective - IV)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz013"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "semester": "VIII",
+                          "subjects": [
+                            {
+                              "subject": "Process Instrumentation",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz014"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Android Development (Elective - V)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz015"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Biomedical Electronics (Elective - V)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz016"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Artificial Intelligence and Neural Network (Elective - V)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz017"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Audio Video Engineering (Elective - V)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz018"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Automotive Electronics (Elective - V)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz019"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Remote Sensing (Elective - VI)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz020"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Digital Marketing (Elective - VI)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz021"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Renewable Energy System & DSM (Elective - VI)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz022"
+                                }
+                              ]
+                            },
+                            {
+                              "subject": "Wireless Sensor Network (Elective - VI)",
+                              "papers": [
+                                {
+                                  "year": "2023",
+                                  "month": "June",
+                                  "link": "https://drive.google.com/xyz023"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "branch": "First Year",
+              "years": [
+                {
+                  "year": "First Year",
+                  "patterns": [
+                    {
+                      "patternYear": "2015",
+                      "subjects": [
+                        {
+                          "subject": "Subject 9",
+                          "papers": [
+                            {
+                              "year": "2023",
+                              "month": "June",
+                              "link": "https://drive.google.com/efg123"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "patternYear": "2019",
+                      "subjects": [
+                        {
+                          "subject": "Subject 10",
+                          "papers": [
+                            {
+                              "year": "2023",
+                              "month": "June",
+                              "link": "https://drive.google.com/hij456"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "course": "Arts"
+        },
+        {
+          "course": "Science"
+        },
+        {
+          "course": "Commerce"
+        },
+        {
+          "course": "Management"
+        },
+        {
+          "course": "Law"
+        },
+        {
+          "course": "Education"
+        }
+      ]
+    },
+    {
+      "name": "Mumbai University"
+    },
+    {
+      "name": "Delhi University"
+    },
+    {
+      "name": "Osmania University"
+    },
+    {
+      "name": "AKTU"
+    }
+  ]
+}
