@@ -33,7 +33,7 @@
 const express = require('express');
 const path = require('path');
 const fs = require('fs');
-const cors = require('cors');
+// const cors = require('cors');
 const helmet = require('helmet');
 const compression = require('compression');
 const morgan = require('morgan');
@@ -46,10 +46,10 @@ const app = express();
 const PORT = process.env.PORT || 5000;
 
 // Enable CORS
-app.use(cors({
-  origin: 'https://sppu-papers.vercel.app', // Allow only your frontend to access the API
-  optionsSuccessStatus: 200
-}));
+// app.use(cors({
+//   origin: 'https://sppu-papers.vercel.app', // Allow only your frontend to access the API
+//   optionsSuccessStatus: 200
+// }));
 
 // Set security-related HTTP headers
 app.use(helmet());
