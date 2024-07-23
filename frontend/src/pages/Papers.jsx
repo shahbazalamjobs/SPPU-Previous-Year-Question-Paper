@@ -174,7 +174,8 @@ const Papers = () => {
 
     useEffect(() => {
         setLoading(true);
-        axios.get('http://localhost:5000/api/data') // Fetch data from backend
+        // axios.get('http://localhost:5000/api/data') // Fetch data from backend
+        axios.get('https://sppu-previous-year-question-paper.onrender.com/api/data')
             .then(response => {
                 const universityData = response.data.universities[0];
                 const courseData = universityData.courses.find(c => c.course === course);

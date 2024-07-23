@@ -11,7 +11,8 @@ const Home = () => {
     const [selectedYear, setSelectedYear] = useState('');
 
     useEffect(() => {
-        axios.get('http://localhost:5000/api/data')
+        // axios.get('http://localhost:5000/api/data')
+        axios.get('https://sppu-previous-year-question-paper.onrender.com/api/data')
             .then(response => {
                 setCourses(response.data.universities[0].courses);
             })
